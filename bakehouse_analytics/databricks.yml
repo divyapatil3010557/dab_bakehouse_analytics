@@ -1,5 +1,4 @@
 # This is a Declarative Automation Bundle definition for bakehouse_analytics.
-#hello
 # See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
 bundle:
   name: bakehouse_analytics
